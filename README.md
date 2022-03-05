@@ -3,8 +3,9 @@ Applied ML for Manufacturing Industry's problem Problem statement: Identificatio
 
 Approach 1:
 Using Open CV :
-https://user-images.githubusercontent.com/71602041/156870461-7791f879-db60-411f-b908-bfb99bb3f603.mp4
 https://user-images.githubusercontent.com/71602041/156870307-51c51761-7c1a-4729-99e9-e791fcea0175.mp4
+
+https://user-images.githubusercontent.com/71602041/156870461-7791f879-db60-411f-b908-bfb99bb3f603.mp4
 
 Approach 2:
 
